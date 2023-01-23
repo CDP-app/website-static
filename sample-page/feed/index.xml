@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Sample Page	</title>
-	<atom:link href="http://www.cdp.app/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link>http://www.cdp.app/</link>
+	<atom:link href="https://www.cdp.app/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.cdp.app/</link>
 	<description></description>
 	<lastBuildDate>Mon, 23 Jan 2023 10:17:40 +0000</lastBuildDate>
 	<sy:updatePeriod>

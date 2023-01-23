@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorized &#8211; CDP.app &#8211; Customer Data Platform</title>
-	<atom:link href="http://www.cdp.app/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>http://www.cdp.app/</link>
+	<atom:link href="https://www.cdp.app/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.cdp.app/</link>
 	<description></description>
 	<lastBuildDate>Mon, 23 Jan 2023 10:17:51 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>http://www.cdp.app/hello-world/</link>
-					<comments>http://www.cdp.app/hello-world/#comments</comments>
+		<link>https://www.cdp.app/hello-world/</link>
+					<comments>https://www.cdp.app/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[dan]]></dc:creator>
 		<pubDate>Mon, 23 Jan 2023 10:17:40 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">http://www.cdp.app/?p=1</guid>
+		<guid isPermaLink="false">https://www.cdp.app/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://www.cdp.app/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.cdp.app/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

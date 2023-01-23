@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Process &#8211; CDP.app &#8211; Customer Data Platform</title>
-	<atom:link href="http://www.cdp.app/tag/process/feed/" rel="self" type="application/rss+xml" />
-	<link>http://www.cdp.app/</link>
+	<atom:link href="https://www.cdp.app/tag/process/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.cdp.app/</link>
 	<description></description>
 	<lastBuildDate>Sun, 19 Jul 2020 05:12:39 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>Repeated of endeavor mr position kindness.</title>
-		<link>http://www.cdp.app/repeated-of-endeavor-mr-position-kindness/</link>
-					<comments>http://www.cdp.app/repeated-of-endeavor-mr-position-kindness/#comments</comments>
+		<link>https://www.cdp.app/repeated-of-endeavor-mr-position-kindness/</link>
+					<comments>https://www.cdp.app/repeated-of-endeavor-mr-position-kindness/#comments</comments>
 		
 		<dc:creator><![CDATA[dan]]></dc:creator>
 		<pubDate>Sun, 19 Jul 2020 05:12:39 +0000</pubDate>
@@ -71,7 +71,7 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://www.cdp.app/repeated-of-endeavor-mr-position-kindness/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.cdp.app/repeated-of-endeavor-mr-position-kindness/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		

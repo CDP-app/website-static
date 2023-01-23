@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Store &#8211; CDP.app &#8211; Customer Data Platform</title>
-	<atom:link href="http://www.cdp.app/tag/store/feed/" rel="self" type="application/rss+xml" />
-	<link>http://www.cdp.app/</link>
+	<atom:link href="https://www.cdp.app/tag/store/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.cdp.app/</link>
 	<description></description>
 	<lastBuildDate>Sun, 19 Jul 2020 05:11:40 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>Lasted am so before on esteem vanity oh.</title>
-		<link>http://www.cdp.app/lasted-am-so-before-on-esteem-vanity-oh/</link>
-					<comments>http://www.cdp.app/lasted-am-so-before-on-esteem-vanity-oh/#comments</comments>
+		<link>https://www.cdp.app/lasted-am-so-before-on-esteem-vanity-oh/</link>
+					<comments>https://www.cdp.app/lasted-am-so-before-on-esteem-vanity-oh/#comments</comments>
 		
 		<dc:creator><![CDATA[dan]]></dc:creator>
 		<pubDate>Sun, 19 Jul 2020 05:11:40 +0000</pubDate>
@@ -75,7 +75,7 @@
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://www.cdp.app/lasted-am-so-before-on-esteem-vanity-oh/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.cdp.app/lasted-am-so-before-on-esteem-vanity-oh/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
