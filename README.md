@@ -1,0 +1,2 @@
+# website-static
+Static Website
