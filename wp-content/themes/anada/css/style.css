@@ -92,7 +92,8 @@ html, body, .wrapper {
 h1, h2, h3, h4, h5, h6 {
   color: #232323;
   line-height: 1.2;
-font-family: "agenda-extra-condensed", sans-serif;
+font-family: "agenda", sans-serif;
+	font-variant: uppercase;
 	font-weight: 700;
 	font-style: normal;
   letter-spacing: 0;
