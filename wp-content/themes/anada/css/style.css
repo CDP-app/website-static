@@ -56,6 +56,8 @@ Table of contents
 
 */
 
+@import url("https://use.typekit.net/egj7rcv.css");
+
 
 /*
 ** General Styles for HTML tags
@@ -89,9 +91,10 @@ html, body, .wrapper {
 
 h1, h2, h3, h4, h5, h6 {
   color: #232323;
-  font-weight: normal;
   line-height: 1.2;
-  font-family: 'Nunito', sans-serif;
+font-family: "agenda-extra-condensed", sans-serif;
+	font-weight: 700;
+	font-style: normal;
   letter-spacing: 0;
   margin: 0;
 }
